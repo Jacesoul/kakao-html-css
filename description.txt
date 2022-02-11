@@ -1,0 +1,9 @@
+### Learning HTML 
+
+- label 태그는 form에 question을 추가할수있다.
+- label은 input과 함께해야 작동한다.
+- label의 for와 input의 id는 동일한 값이 들어가야한다.
+- id는 body안에 어떤 태그든 넣을수 있는 attribute이다. 
+- tag에 추가하는 부가적인 정보를 attribute(속성)이라고 한다.
+- element당 하나의 id만 가질수 있는게 id의 규칙이다.(id의 값은 unique해야한다)
+- id의 값은 고유해야하고 태그는 하나의 id만 가질수 있다.
